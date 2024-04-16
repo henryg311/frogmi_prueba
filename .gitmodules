@@ -1,0 +1,6 @@
+[submodule "earthquake_data_api"]
+	path = earthquake_data_api
+	url = https://github.com/henryg311/frogmi_back.git
+[submodule "earthquake-web-client"]
+	path = earthquake-web-client
+	url = https://github.com/henryg311/frogmi_front.git
